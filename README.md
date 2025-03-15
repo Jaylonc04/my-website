@@ -1,2 +1,2 @@
 # my-website
-Learning to clone repositories.
+It is my first website.
